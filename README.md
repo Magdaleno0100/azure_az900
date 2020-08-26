@@ -66,3 +66,12 @@ PaaS clouds
 
 
 ## 5. Microsoft Azure Fundamentals (AZ-900)
+
+### 5.1 Core Azure Architectural Components
+
+    Geografía: 
+        1. garantiza el cumplimiento de residencia de datos.
+        2. contiene dos o más regiones.
+        3. El cliente puede seleccionar dónde almacenar la información.
+        4. Son cinco regiones geográficas : America, Europa, Asia, Medio Oriente y África.
+        
